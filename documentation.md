@@ -40,7 +40,7 @@ MySQL  (Eng) Progamming With Mosh  & W3S [ https://bit.ly/3fhays6 ]
 
 (Tamil) Macappstudio SQL [https://bit.ly/3jdJYRY] 
 
-Things Should Be Include in Project
+Things Should Be Include in  Project
 Mail ID - OTP Validation [https://www.youtube.com/watch?v=tYdy4272IEs]
 
 
